@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1463902432 source:/home/eric/Research/Tracker/main.cpp
+	<opencv2/core/core.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/highgui/highgui.hpp>
+
+1463903859 source:/home/eric/Research/opencv/Tracker/ImagePipeline.cpp
+	"ImagePipeline.hpp"
+
+1463903855 /home/eric/Research/opencv/Tracker/ImagePipeline.hpp
+	<vector>
+	<functional>
+	<opencv2/opencv.hpp>
+
+1463903859 source:/home/eric/Research/opencv/Tracker/ImageProcessing.cpp
+	"ImageProcessing.hpp"
+
+1463903855 /home/eric/Research/opencv/Tracker/ImageProcessing.hpp
+	<opencv2/opencv.hpp>
+
+1463954553 source:/home/eric/Research/opencv/Tracker/test.cpp
+	"test.hpp"
+
+1463903855 /home/eric/Research/opencv/Tracker/test.hpp
+	<iostream>
+	<functional>
+	<opencv2/highgui.hpp>
+	"ImagePipeline.hpp"
+	"ImageProcessing.hpp"
+
